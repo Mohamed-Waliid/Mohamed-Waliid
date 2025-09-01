@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">My name is Mohamed Walid and I'm a Backend Web Developer</h2>
+<h2 align="center">My name is Mohamed Walid and I'm a Junior Software Engineer</h2>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Backend Web Development<br>🎯 Goals: Master backend frameworks, contribute to impactful projects, and grow into a full-stack developer<br>🎲 Fun fact: I can spend hours debugging a single line of code… and still love the process</p>
+<p align="left">🎓 B.Sc. Computer Science Graduate (MTI University)<br>🏆 DEPI Graduate (Egyptian Ministry of Communications)<br>🏅 ITI MEAN Stack certification<br>📚 I'm currently learning Backend Web Development<br>🎯 Goals: Master backend frameworks, contribute to impactful projects, and grow into a full-stack developer</p>
 
 ###
 
@@ -39,5 +39,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Mohamed-Waliid/Mohamed-Waliid/output/snake.svg" alt="Snake animation" />
 
 ###
