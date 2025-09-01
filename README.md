@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">My name is Mohamed Walid and I'm a Backend Web Developer</p>
+<h2 align="center">My name is Mohamed Walid and I'm a Backend Web Developer</h2>
 
 ###
 
