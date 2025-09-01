@@ -40,8 +40,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/Mohamed-Waliid/Mohamed-Waliid/output/snake.svg" alt="Snake animation" />
-
-###
