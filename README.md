@@ -6,11 +6,11 @@
 
 ###
 
-<h6 align="left">Backend Web Developer with a strong foundation in building scalable and secure web applications. I specialize in designing RESTful APIs, managing both SQL and NoSQL databases, and applying best practices for performance, security, and maintainability. With additional experience in artificial intelligence, I can integrate intelligent features into applications and contribute to innovative solutions. I thrive in collaborative environments, constantly learning and adapting to new technologies to deliver high-quality and efficient results.</h6>
+<p align="left">Backend Web Developer with a strong foundation in building scalable and secure web applications. I specialize in designing RESTful APIs, managing both SQL and NoSQL databases, and applying best practices for performance, security, and maintainability. With additional experience in artificial intelligence, I can integrate intelligent features into applications and contribute to innovative solutions. I thrive in collaborative environments, constantly learning and adapting to new technologies to deliver high-quality and efficient results.</p>
 
 ###
 
-<h6 align="left">🎓 B.Sc. Computer Science Graduate (MTI University)<br>🏆 DEPI Graduate (Egyptian Ministry of Communications)<br>🏅 ITI MEAN Stack certification<br>📚 I'm currently learning Backend Web Development<br>🎯 Goals: Master backend frameworks, contribute to impactful projects, and grow into a full-stack developer</h6>
+<p align="left">🎓 B.Sc. Computer Science Graduate (MTI University)<br>🏆 DEPI Graduate (Egyptian Ministry of Communications)<br>🏅 ITI MEAN Stack certification<br>📚 I'm currently learning Backend Web Development<br>🎯 Goals: Master backend frameworks, contribute to impactful projects, and grow into a full-stack developer</p>
 
 ###
 
